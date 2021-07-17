@@ -1,5 +1,6 @@
 ### Hi, welcome to my github profile 👨🏽‍💻
 
+Learn more about my [projects](https://patrickmoreira.netlify.app/) 📚💡 <br />
 Send me a message on [LinkedIn](https://www.linkedin.com/in/patrick-moreirarosa/) 🚀
 
 ![Patrick Moreira github stats](https://github-readme-stats.vercel.app/api?username=patrick-moreira&show_icons=true&theme=tokyonight)
