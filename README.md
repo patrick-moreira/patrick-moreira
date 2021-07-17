@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, welcome to my github profile 👨🏽‍💻
+
+Send me a message on [LinkedIn](https://www.linkedin.com/in/patrick-moreirarosa/) 🚀
+
+![Patrick Moreira github stats](https://github-readme-stats.vercel.app/api?username=patrick-moreira&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-moreira&layout=compact&hide=ruby,R)](https://github.com/patrick-moreira/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?=patrick-moreira&layout=compact)](https://github.com/patrick-moreira/github-readme-stats)
 
 <!--
 **patrick-moreira/patrick-moreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
