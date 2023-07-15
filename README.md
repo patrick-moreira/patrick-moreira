@@ -1,6 +1,8 @@
 # Hi, welcome to my github profile 👨🏽‍💻
 - Learn more about my [projects](https://patrickmoreira.netlify.app/) 📚💡 <br />
 - Send me a message on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patrick-moreirarosa/)
+
+ <img src="https://raw.githubusercontent.com/patrick-moreira/patrick-moreira/output/snake.svg" alt="Snake animation" />
  
 ---
 
