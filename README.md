@@ -4,9 +4,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/patrick-moreira/patrick-moreira/output/snake.svg" alt="Snake animation" />
-
-
 ## ![Dev](https://img.shields.io/badge/<->-blue?style=flat) Skills  
 <div align="center">
   
