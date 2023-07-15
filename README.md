@@ -9,7 +9,7 @@ Send me a message on [LinkedIn](https://www.linkedin.com/in/patrick-moreirarosa/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-moreira&layout=compact&hide=ruby,R)](https://github.com/patrick-moreira/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@patrickmoreira&layout=compact)](https://github.com/patrick-moreira/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?=@patrickmoreira&layout=compact)](https://github.com/patrick-moreira/github-readme-stats)
 
 <!--
 **patrick-moreira/patrick-moreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
