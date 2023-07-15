@@ -1,3 +1,5 @@
+<center>
+  
 # Hi, welcome to my github profile 👨🏽‍💻
 
 - Learn more about my [projects](https://patrickmoreira.netlify.app/) 📚💡 <br />
@@ -18,3 +20,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=patrick-moreira&icon=5&color=6)](https://visitcount.itsvg.in)
+
+</center>
