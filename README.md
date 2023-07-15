@@ -11,8 +11,6 @@ Send me a message on [LinkedIn](https://www.linkedin.com/in/patrick-moreirarosa/
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=patrickmoreira&layout=compact&theme=tokyonight&hide_other=TypeScript,JavaScript,Python)](https://github.com/patrick-moreira/github-readme-stats)
 
-<figure><embed src="https://wakatime.com/share/@patrickmoreira/f8ff3e7b-6948-4b83-bfdd-7df464b65ca9.svg"></embed></figure>
-
 <!--
 **patrick-moreira/patrick-moreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
