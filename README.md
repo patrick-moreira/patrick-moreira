@@ -1,3 +1,22 @@
+<!-- Coloque essa linha no início do seu arquivo README.md -->
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" />
+
+<!-- Adicione o conteúdo do README abaixo -->
+<body class="bg-black">
+  <div class="bg-universe bg-cover bg-center py-12">
+    <h1 class="text-white text-4xl text-center">Welcome to My Universe!</h1>
+    <p class="text-white text-lg text-center">Explore the wonders of my projects and discoveries.</p>
+  </div>
+
+  <!-- Restante do conteúdo do README -->
+</body>
+
+<style>
+  .bg-universe {
+    background-image: url('https://example.com/universe-background.jpg');
+  }
+</style>
+
 ### Hi, welcome to my github profile 👨🏽‍💻
 
 Learn more about my [projects](https://patrickmoreira.netlify.app/) 📚💡 <br />
