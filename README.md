@@ -15,3 +15,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=patrick-moreira&icon=5&color=6)](https://visitcount.itsvg.in)
+
+<!--
+**patrick-moreira/patrick-moreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
