@@ -1,28 +1,17 @@
-### Hi, welcome to my github profile 👨🏽‍💻
+# Hi, welcome to my github profile 👨🏽‍💻
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
-Learn more about my [projects](https://patrickmoreira.netlify.app/) 📚💡 <br />
-Send me a message on [LinkedIn](https://www.linkedin.com/in/patrick-moreirarosa/) 🚀
+- Learn more about my [projects](https://patrickmoreira.netlify.app/) 📚💡 <br />
+- Send me a message on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patrick-moreirarosa/)
+---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=patrick-moreira&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-![Patrick Moreira github stats](https://github-readme-stats.vercel.app/api?username=patrick-moreira&show_icons=true&theme=tokyonight) <br />
-<img src="https://img.shields.io/badge/-REACT-grey?style=flat&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/-TYPESCRIPT-blue?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/-PYTHON-blue?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/-CSS3-purple?style=flat&logo=css3&logoColor=white">
+## 📊 Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=patrick-moreira&theme=tokyonight&hide_border=false)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-moreira&layout=compact&hide=ruby,R&theme=tokyonight)](https://github.com/patrick-moreira/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=patrickmoreira&layout=compact&theme=tokyonight&hide=Java,Makefile,C++,XML,CSV,C,Text,Properties,c%2B%2B,git%20config,JSX,SQL)](https://github.com/patrick-moreira/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=patrickmoreira&layout=compact&theme=tokyonight&hide_other=TypeScript,JavaScript,Python)](https://github.com/patrick-moreira/github-readme-stats)
-
-
-<!--
-**patrick-moreira/patrick-moreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=patrick-moreira&icon=5&color=6)](https://visitcount.itsvg.in)
