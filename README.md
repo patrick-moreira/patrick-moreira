@@ -21,27 +21,15 @@
 </div>
 
 ## 📊 Stats
+<div align="center">
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=patrick-moreira&theme=tokyonight&hide_border=false)<br/>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=patrickmoreira&layout=compact&theme=tokyonight&hide=Java,Makefile,C++,XML,CSV,C,Text,Properties,c%2B%2B,git%20config,JSX,SQL)](https://github.com/patrick-moreira/github-readme-stats)
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrick-moreira&theme=tokyonight&hide_border=false" />
-      <br />
-      <!-- Spacer para equilibrar altura -->
-      <img src="https://via.placeholder.com/1x100/000000/000000?text=+" width="1" height="100" style="opacity:0" />
-      <a href="https://github.com/patrick-moreira/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=patrickmoreira&layout=compact&theme=tokyonight&hide=Java,Makefile,C++,XML,CSV,C,Text,Properties,c%2B%2B,git%20config,JSX,SQL" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-
+</div>
 
 ---
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 [![](https://visitcount.itsvg.in/api?id=patrick-moreira&icon=5&color=6)](https://visitcount.itsvg.in)
