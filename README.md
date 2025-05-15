@@ -1,7 +1,7 @@
 # 👨🏽‍💻
 
-- **📚 Learn more about my** [projects](https://patrickmoreira.netlify.app/)  
-- **💼 Connect with me on** [LinkedIn](https://linkedin.com/in/patrick-moreirarosa/)
+ **📚 Learn more about my** [projects](https://patrickmoreira.netlify.app/)  
+ **💼 Connect with me on** [LinkedIn](https://linkedin.com/in/patrick-moreirarosa/)
 
 ---
 
