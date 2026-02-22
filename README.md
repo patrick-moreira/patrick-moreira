@@ -23,9 +23,12 @@
 
 ## 📊 Stats
 <div align="center">
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=patrick-moreira&theme=tokyonight&hide_border=false)<br/>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=patrickmoreira&layout=compact&theme=tokyonight&hide=Java,Makefile,C++,XML,CSV,C,Text,Properties,c%2B%2B,git%20config,JSX,SQL)](https://github.com/patrick-moreira/github-readme-stats)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=patrick-moreira&theme=tokyonight&hide_border=false)
+
+<br/>
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=patrick-moreira&layout=compact&theme=tokyonight&hide=Java,Makefile,C++,XML,CSV,C,Text,Properties,c%2B%2B,git%20config,JSX,SQL)](https://github.com/patrick-moreira)
 
 </div>
 
