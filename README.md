@@ -19,6 +19,8 @@
 
 </div>
 
+<!--START_SECTION:waka-->
+
 ## 📊 Stats
 <div align="center">
 
@@ -27,6 +29,8 @@
 <br/>
 
 </div>
+
+<!--END_SECTION:waka-->
 
 ---
 
