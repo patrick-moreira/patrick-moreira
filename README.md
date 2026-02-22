@@ -19,6 +19,15 @@
 
 </div>
 
+## 📊 Stats
+<div align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=patrick-moreira&theme=tokyonight&hide_border=false)
+
+<br/>
+
+</div>
+
 <!--START_SECTION:waka-->
 
 ```txt
