@@ -21,14 +21,17 @@
 
 <!--START_SECTION:waka-->
 
-## 📊 Stats
-<div align="center">
+```txt
+From: 14 February 2026 - To: 21 February 2026
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=patrick-moreira&theme=tokyonight&hide_border=false)
+Total Time: 36 hrs 14 mins
 
-<br/>
-
-</div>
+TypeScript   29 hrs 29 mins        ████████████████████▒░░░░   81.38 %
+Bash         2 hrs 34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+Other        1 hr 56 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+JSON         52 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Markdown     49 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+```
 
 <!--END_SECTION:waka-->
 
