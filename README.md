@@ -5,14 +5,14 @@
 
 ---
 
-## ![Dev](https://img.shields.io/badge/<->-blue?style=flat) Skills  
-  <div align="center" >
-<a href="https://skillicons.dev"   >
+## ![Dev](https://img.shields.io/badge/<->-blue?style=flat) Skills   
+ <div align="center" >
+<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css,react,next,tailwind,figma,styledcomponents,linux,git,docker,vscode" />
 </a>
   <br />
 
-  </div>
+ </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
@@ -23,12 +23,10 @@
 
 ## 📊 Stats
 <div align="center">
-
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=patrick-moreira&theme=tokyonight&hide_border=false)
 
 <br/>
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=patrick-moreira&layout=compact&theme=tokyonight&hide=Java,Makefile,C++,XML,CSV,C,Text,Properties,c%2B%2B,git%20config,JSX,SQL)](https://github.com/patrick-moreira)
 
 </div>
 
