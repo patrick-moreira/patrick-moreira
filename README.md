@@ -17,7 +17,7 @@
 ## 🏆 GitHub Trophies
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=patrick-moreira&row=1&column=6&theme=dracula&margin-w=15&margin-h=15")
+![](https://github-profile-trophy.vercel.app/?username=patrick-moreira&theme=dracula&row=1&column=6)
 
 </div>
 
