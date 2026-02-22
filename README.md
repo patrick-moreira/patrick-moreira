@@ -21,17 +21,16 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-From: 14 February 2026 - To: 21 February 2026
+## 📊 Stats
+<div align="center">
 
-Total Time: 36 hrs 14 mins
+![](https://github-readme-streak-stats.herokuapp.com/?user=patrick-moreira&theme=tokyonight&hide_border=false)
 
-TypeScript   29 hrs 29 mins        ████████████████████▒░░░░   81.38 %
-Bash         2 hrs 34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-Other        1 hr 56 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-JSON         52 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Markdown     49 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-```
+<br/>
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=patrick-moreira&layout=compact&theme=tokyonight&hide=Java,Makefile,C++,XML,CSV,C,Text,Properties,c%2B%2B,git%20config,JSX,SQL)](https://github.com/patrick-moreira)
+
+</div>
 
 <!--END_SECTION:waka-->
 
