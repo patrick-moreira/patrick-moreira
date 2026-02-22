@@ -16,9 +16,14 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SECTION_NAME: 🚀 Minha Atividade de Coding
-          BLOCKS: ▓▒░
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
+          SHOW_COMMIT: true
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_LANGUAGE: true
+          SHOW_EDITORS: true
+          SHOW_OS: true
           LANG_COUNT: 10
