@@ -6,24 +6,22 @@
 ---
 
 ## ![Dev](https://img.shields.io/badge/<->-blue?style=flat) Skills   
- <div align="center" >
+<div align="center">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css,react,next,tailwind,figma,styledcomponents,linux,git,docker,vscode" />
 </a>
-  <br />
-
- </div>
+</div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  
+
 ![](https://github-profile-trophy.vercel.app/?username=patrick-moreira&theme=dracula&row=1&column=6)
 
 </div>
 
 ## 📊 Stats
 <div align="center">
-  
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=patrick-moreira&theme=tokyonight&hide_border=false)
 
 <br/>
